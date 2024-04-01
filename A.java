@@ -1,5 +1,5 @@
 import java.util.*;
-class A
+class Restaurant
 {
 public static void main(String args[])
 {
